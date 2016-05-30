@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to right, #FFD700 50%, #800000 50%)
+    
+}
+
+
+img{
+	border: none;
+    margin: 0 auto;
+    display: block;
+}
+
+#imgs{
+	margin: auto;   
+       top: 0; 
+       left: 0;
+       bottom: 0; 
+       right: 0;
+	
+    position: relative;
+    padding: 50px 50px 50px 50px;
+
+}
+
+#Text{
+	position: absolute;
+    text-align: center;
+    background-color: orangered;
+    width: 100%;
+
+}
